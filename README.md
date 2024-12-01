@@ -1,7 +1,7 @@
 # IUNADI at NADI 2023 shared task: Country-level Arabic Dialect Classification in Tweets for the Shared Task NADI 2023
 
 ## Overview
-This repository contains the code and resources for our paper: ["IUNADI at NADI 2023 shared task: Country-level Arabic Dialect Classification in Tweets for the Shared Task NADI 2023"](https://aclanthology.org/2023.arabicnlp-1.72.pdf). Our work describes an approach to classify Arabic dialects from tweets as part of the NADI 2023 shared task. The dataset includes tweets from 18 Arab countries, and the goal is to classify tweets at the country level.
+This repository describes our paper: ["IUNADI at NADI 2023 shared task: Country-level Arabic Dialect Classification in Tweets for the Shared Task NADI 2023"](https://aclanthology.org/2023.arabicnlp-1.72.pdf). Our work describes an approach to classify Arabic dialects from tweets as part of the NADI 2023 shared task. The dataset includes tweets from 18 Arab countries, and the goal is to classify tweets at the country level.
 
 ## Abstract
 We explored various machine learning models, including:
@@ -103,6 +103,3 @@ If you use our work, please cite:
     abstract = "In this paper, we describe our participation in the NADI2023 shared task for the classification of Arabic dialects in tweets. For training, evaluation, and testing purposes, a primary dataset comprising tweets from 18 Arab countries is provided, along with three older datasets. The main objective is to develop a model capable of classifying tweets from these 18 countries. We outline our approach, which leverages various machine learning models. Our experiments demonstrate that large language models, particularly Arabertv2-Large, Arabertv2-Base, and CAMeLBERT-Mix DID MADAR, consistently outperform traditional methods such as SVM, XGBOOST, Multinomial Naive Bayes, AdaBoost, and Random Forests.",
 }
 ```
-
-## Maintainer
-- [Muhammed S. Abdo](https://www.linkedin.com/in/muhsabrys/)
